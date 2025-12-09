@@ -1,0 +1,12 @@
+{
+  "modules": [
+    {
+      "name": "game-detail",
+      "route": "games/[id]"
+    },
+    {
+      "name": "game-list",
+      "route": "games"
+    }
+  ]
+}

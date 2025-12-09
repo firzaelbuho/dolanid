@@ -1,0 +1,45 @@
+[
+	{
+		"id": "engklek",
+		"name": "Engklek",
+		"region": "Central Java",
+		"description": "A hopping game played on ground patterns drawn with chalk.",
+		"detail": {
+			"playerCount": 2,
+			"equipment": ["chalk or stone"],
+			"rules": [
+				"Players hop through boxes on one foot.",
+				"Do not step on the lines.",
+				"Complete the pattern to win."
+			]
+		}
+	},
+	{
+		"id": "gobak-sodor",
+		"name": "Gobak Sodor",
+		"region": "Yogyakarta",
+		"description": "A traditional team-based chasing and blocking game.",
+		"detail": {
+			"playerCount": 6,
+			"equipment": ["chalk for field lines"],
+			"rules": [
+				"Defenders block paths to prevent attackers from passing.",
+				"Attackers must run across lines without being tagged."
+			]
+		}
+	},
+	{
+		"id": "congklak",
+		"name": "Congklak",
+		"region": "Java",
+		"description": "A board game using shells or seeds played on a wooden board.",
+		"detail": {
+			"playerCount": 2,
+			"equipment": ["congklak board", "shells or seeds"],
+			"rules": [
+				"Players take turns distributing seeds into holes.",
+				"The one with the most seeds in the store wins."
+			]
+		}
+	}
+]
